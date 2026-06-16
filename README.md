@@ -1,2 +1,59 @@
-# 1584c062-fleet-vehicle-management-lea
-Stop losing high-value fleet leads to generic contact forms that never capture vehicle specs, fleet size, or maintenance needs.  This plugin turns your WordPress site into a precise lead capture machine for fleet and vehicle management services. Unlike standard form builders, it includes pre-built fields for fleet-specific data (e.g., number of veh
+=== Fleet & Vehicle Management Lead Generation Form Builder WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Multi-step forms, conditional logic, and CRM integration designed for Fleet & Vehicle Management businesses. Higher conversion than generic form plugins.
+
+== Description ==
+
+Multi-step forms, conditional logic, and CRM integration designed for Fleet & Vehicle Management businesses. Higher conversion than generic form plugins.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Fleet & Vehicle Management Lead Generation Form Builder WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sY3cv9z90bW6xydI0cZm23)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY3cv9z90bW6xydI0cZm23)
+
